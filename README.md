@@ -1,5 +1,7 @@
 # python-mccluskey
-Dieses Script vereinfacht boolesche Gleichungen nach dem McCluskey Näherungsverfahren mit maximal 10 Bits
+Dieses Script vereinfacht boolesche Gleichungen nach dem McCluskey Näherungsverfahren mit maximal 10 Bits. Folgende Pakete werden benötigt:
+- numpy
+- sympy
 
 # Eingabe
 
